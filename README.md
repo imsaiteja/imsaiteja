@@ -2,7 +2,6 @@
 
 - 🌱 Currently learning **React** and advancing my **Java Development** expertise  
 - 🤖 Exploring the world of **AI & Machine Learning**
--  📚 Strong foundation in **Computer Science Fundamentals** — **CN, OS, DBMS, OOPs**  
 - 👯 Open to collaborating on **Web Development** and **Backend Development** projects  
 - 💬 Ask me about **Java, React, RESTful APIs, and Databases**  
 - 🚀 Actively building projects to enhance my skills and deliver impactful solutions  
