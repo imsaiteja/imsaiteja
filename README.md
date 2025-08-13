@@ -1,3 +1,6 @@
+<!-- Banner -->
+![Header](https://github.com/saitejanani/saitejanani/blob/main/banner.png)
+
 ## Hi there 👋 I'm Saiteja Porandla
 
 - 🌱 Currently learning **React** and advancing my **Java Development** expertise  
