@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey there, I'm Saiteja Porandla  
 
-<!--
-**imsaiteja/imsaiteja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Java Developer | React Enthusiast | RESTful APIs & Databases**  
+💡 Exploring **AI & ML** alongside backend development  
+🎯 Currently working on **building projects to enhance my skills**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend:** Java, RESTful APIs  
+- **Databases:** MySQL, PostgreSQL  
+- **Others:** Git, GitHub, Python (learning)  
+
+---
+
+## 📌 Currently Working On
+- 🛠 Developing **real-world projects** to strengthen backend & frontend skills  
+- 📚 Learning **advanced Java concepts & system design**  
+- 🤖 Exploring **AI & ML basics** to integrate into future projects  
+
+---
+
+## 📊 GitHub Stats
+![Saiteja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me)](YOUR_PORTFOLIO_URL)  
+
+---
+💬 *"Code, learn, repeat — and the rest will follow."*
