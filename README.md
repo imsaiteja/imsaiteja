@@ -1,11 +1,13 @@
-## Hi 👋 I'm Saiteja Porandla  
+Hi 👋 I'm Saiteja Porandla  
 
-🚀 Aspiring Software Developer with a strong foundation in backend development using Java and Python.
+🚀 Aspiring AI/ML Engineer interested in building smart and data-driven applications.
 
-- 🌱 Currently strengthening **Java** and **Python** for backend and problem-solving  
-- 🔧 Building **RESTful APIs** and backend applications  
-- 🧠 Exploring **AI & Machine Learning** fundamentals using Python  
-- 🛠️ Hands-on experience with **Java, Python, REST APIs, MySQL**  
-- 👯 Open to collaborating on **Backend Development & Web Applications**  
-- 🎯 Focused on writing clean, scalable, and efficient code  
-- 📫 Connect with me on **LinkedIn** → [Saiteja Porandla](https://www.linkedin.com/in/saiteja-porandla-760a64265)
+- Learning AI, Machine Learning, Deep Learning, and NLP  
+- Working with NumPy, Pandas, Scikit-learn, TensorFlow, Keras, NLTK  
+- Building basic ML models and NLP projects  
+- Improving Python skills (and Java basics)  
+- Familiar with MySQL and backend concepts  
+- Open to working on AI/ML and NLP projects  
+- Goal: to create useful and efficient AI solutions  
+
+📫 LinkedIn: https://www.linkedin.com/in/saiteja-porandla-760a64265
